@@ -1,5 +1,3 @@
-" Testing testing Patrick T"
-
 import sqlite3
 from contextlib import closing
 
